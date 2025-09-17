@@ -1,1 +1,1 @@
-hi hello this my new app
+This is my laptop
